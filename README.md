@@ -107,7 +107,6 @@ Modern quote application with favorites, search, sharing, themes, statistics, an
 |---|---|
 | 🐍 **Cisco Python Essentials 1** | Python programming fundamentals |
 | 📱 **CodeAlpha App Development Virtual Internship** | Application development |
-| 🌐 **CodeAlpha Web Development Internship** | Practical web development |
 | 🛰️ **NASA Open Science 101** | Open science & scientific collaboration |
 | 🔬 **NASA Open Science Essentials** | Open science principles & practices |
 | 💼 **Deloitte Technology Job Simulation** | Coding, development & technology problem-solving |
