@@ -1,77 +1,90 @@
 <div align="center">
 
-# 👋 Hi, I'm Muhammad Husnain Raza
+# Muhammad Husnain Raza
 
-### 💻 ADP Computer Science Student · 🐍 Python Developer · 📱 Flutter Developer · 🤖 AI Enthusiast
+### 💻 Computer Science Student · 🐍 Python Developer · 📱 Flutter Developer · 🌐 Web Developer · 🤖 AI Enthusiast
 
-I build practical software projects and continuously improve my skills in **Python, C++, Flutter, Web Development, and Artificial Intelligence**.
+Building practical software, learning continuously, and turning ideas into working projects.
 
 [![GitHub](https://img.shields.io/badge/GitHub-HusnainRaza313-181717?style=for-the-badge&logo=github)](https://github.com/HusnainRaza313)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Husnain%20Raza-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-husnain-raza-523266304)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👋 About Me
 
-- 🎓 ADP Computer Science student at **Bahria University Lahore**
-- 🐍 Building desktop applications with **Python & Tkinter**
-- 📱 Developing and learning with **Flutter**
-- 💻 Practicing **C++ and Data Structures & Algorithms**
-- 🌐 Exploring **Web Development**
+🎓 **ADP Computer Science student at Bahria University Lahore** with a strong interest in software development, mobile applications, web technologies, and Artificial Intelligence.
+
+I enjoy building projects that combine **clean interfaces, practical functionality, and real programming concepts**. My recent work ranges from responsive web applications to a feature-rich Python desktop game.
+
+- 🐍 Developing with **Python & Tkinter**
+- 💻 Strengthening **C++ and DSA** fundamentals
+- 📱 Learning and building with **Flutter**
+- 🌐 Creating responsive **HTML, CSS & JavaScript** applications
 - 🤖 Exploring **Artificial Intelligence**
-- 📚 Learning by building academic and personal projects
+- 🧩 Learning through hands-on projects and internships
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Development**
+### Development
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-Desktop%20GUI-informational?style=flat-square)
-![Web Development](https://img.shields.io/badge/Web%20Development-HTML%20%7C%20CSS%20%7C%20JS-orange?style=flat-square)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-Desktop%20GUI-3776AB?style=for-the-badge)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
-**Tools**
+### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## ⭐ Featured Projects
+## 🚀 Featured Projects
 
-### 🐍 Snake Game — Python
+### 🐍 Snake Game — Python Desktop Application
 
-A modern Windows desktop Snake Game built with **Python and Tkinter**, featuring custom graphics, sound, persistent high scores, pause/resume, and a Windows installer.
+A feature-rich Windows Snake Game built with **Python + Tkinter**, including custom graphics, background music, sound effects, persistent high scores, saved settings, pause/resume, and a Windows installer.
 
-**Tech:** Python · Tkinter · Pillow · JSON · PyInstaller · Inno Setup
+**Stack:** Python · Tkinter · Pillow · JSON · PyInstaller · Inno Setup
 
-👉 [View Repository](https://github.com/HusnainRaza313/Snake-Game-Python)
+👉 [View Project](https://github.com/HusnainRaza313/Snake-Game-Python)
 
-### 🧠 Flashcard Quiz App
+### 📚 Flashcard Quiz App
 
-A learning-focused application created to practice programming, UI design, and user interaction.
+A responsive study application built with **HTML, CSS and JavaScript**. Users can create, edit, delete, navigate, and study flashcards while data is preserved with Local Storage.
 
-👉 [View Repository](https://github.com/HusnainRaza313/Flashcard-Quiz-App)
+**Stack:** HTML5 · CSS3 · JavaScript · Local Storage
+
+👉 [View Project](https://github.com/HusnainRaza313/Flashcard-Quiz-App)
 
 ### 💪 Pase Fitness Tracker
 
-A fitness-tracking application project built as part of my software development practice.
+A responsive fitness-tracking web application for recording activities, tracking steps and calories, viewing weekly progress, and managing records with a modern UI.
 
-👉 [View Repository](https://github.com/HusnainRaza313/Pase-Fitness-Tracker)
+**Stack:** HTML5 · CSS3 · JavaScript · Chart.js · Local Storage
+
+👉 [View Project](https://github.com/HusnainRaza313/Pase-Fitness-Tracker)
 
 ### 💬 Random Quote Generator
 
-A simple application for practicing programming fundamentals and application UI development.
+A modern web application featuring random quotes, favorites, search, clipboard copy, sharing, statistics, themes, and Local Storage.
 
-👉 [View Repository](https://github.com/HusnainRaza313/Random-Quote-Generator)
+**Stack:** HTML5 · CSS3 · JavaScript · Local Storage
+
+👉 [View Project](https://github.com/HusnainRaza313/Random-Quote-Generator)
 
 ---
 
@@ -79,27 +92,29 @@ A simple application for practicing programming fundamentals and application UI 
 
 - 🐍 **Cisco Python Essentials 1**
 - 📱 **App Development Virtual Internship — CodeAlpha**
-- 🌱 Participated in community and environmental activities
+- 🏅 **Certificate of Completion & Letter of Recommendation — CodeAlpha**
+- 🌱 Participated in community and environmental activities, including plantation initiatives
 
 ---
 
 ## 🎯 Current Focus
 
-- Building stronger **Python** projects
-- Improving **C++ / DSA** skills
-- Developing with **Flutter**
-- Exploring **AI and machine learning**
-- Creating polished projects for my developer portfolio
+Currently focused on building stronger projects, improving problem-solving skills, and expanding into **AI and modern application development**.
+
+- Python & desktop development
+- C++ & Data Structures / Algorithms
+- Flutter & mobile development
+- Responsive web development
+- Artificial Intelligence and machine learning
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Analytics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HusnainRaza313&show_icons=true&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HusnainRaza313&layout=compact&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=HusnainRaza313&show_icons=true&hide_border=true&rank_icon=github" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HusnainRaza313&layout=compact&hide_border=true" height="170" />
 
 </div>
 
@@ -107,16 +122,16 @@ A simple application for practicing programming fundamentals and application UI 
 
 ## 🤝 Let's Connect
 
-I'm interested in connecting with **developers, students, recruiters, and technology enthusiasts** to learn, collaborate, and build useful software.
+I'm open to connecting with **developers, students, mentors, recruiters, and technology enthusiasts** who are interested in learning, collaboration, and building useful software.
 
-- 🐙 GitHub: [@HusnainRaza313](https://github.com/HusnainRaza313)
-- 💼 LinkedIn: Add your LinkedIn profile link here
+- 💼 **LinkedIn:** [Muhammad Husnain Raza](https://www.linkedin.com/in/muhammad-husnain-raza-523266304)
+- 🐙 **GitHub:** [@HusnainRaza313](https://github.com/HusnainRaza313)
 
 ---
 
 <div align="center">
 
-### 💡 Keep Learning · Keep Building · Keep Improving
+### 💡 Learn · Build · Improve · Repeat
 
 ⭐ Thanks for visiting my profile!
 
