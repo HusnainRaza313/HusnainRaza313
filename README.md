@@ -1,65 +1,13 @@
-<div align="center">
+# 💫 About Me:
+## About Me<br><br>I'm an **ADP Computer Science student at Bahria University Lahore**, passionate about building practical and polished software across **web, desktop, and mobile platforms**. I enjoy turning ideas into functional projects while focusing on **clean code, problem-solving, and user-friendly design**.<br><br>💻 **Focus:** Python · C++/DSA · Web Development · Flutter · AI<br>🚀 **Currently Building:** Full-Stack, Desktop & AI-powered Projects<br>🧠 **Interested In:** Software Development · AI · Open Source<br>🤝 **Open To:** Internships · Collaboration · Open Source Opportunities<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:0d1117&height=220&section=header&text=Muhammad%20Husnain%20Raza&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Python%20%C2%B7%20Flutter%20%C2%B7%20Web%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_husnainraza) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-husnain-raza-523266304.) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadhusnain33@gmail.com) 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=1200&color=6C63FF&center=true&vCenter=true&width=600&lines=Turning+ideas+into+working+software;Python+%7C+C%2B%2B+%7C+JavaScript+%7C+Flutter;Currently+exploring+AI+%26+mobile+dev" alt="Typing SVG" />
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white)
 
-<br/>
-
-<a href="https://github.com/HusnainRaza313"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/muhammad-husnain-raza-523266304"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Lahore%2C%20Pakistan-6C63FF?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-<img src="https://komarev.com/ghpvc/?username=HusnainRaza313&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS"/>
-
-</div>
-
-<br/>
-
-<table width="100%">
-<tr>
-<td width="60%" valign="top">
-
-### About Me
-
-I'm an **ADP Computer Science student at Bahria University Lahore**, building software across desktop, web, and mobile — from custom data structures in C++ to full-stack web apps and Flutter interfaces.
-
-I care about shipping things that are actually finished: clean UI, sensible architecture, code that holds up.
-
-```yaml
-role: Computer Science Student
-focus: [Python, C++/DSA, Web Development, Flutter, AI]
-currently_building: Polished full-stack & desktop projects
-open_to: Internships · Collaboration · Open Source
-```
-
-</td>
-<td width="40%" valign="top" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=HusnainRaza313&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&cache_seconds=1800" width="100%"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 🛠️ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,flutter,dart,git,github,vscode&theme=dark&perline=10"/>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Tkinter-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pillow-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
-</p>
-
-<br/>
-
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 <table width="100%">
 <tr>
@@ -112,9 +60,7 @@ Polished quote app with favorites, search, sharing, and multiple themes.
 </tr>
 </table>
 
-<br/>
-
-## 🏆 Certifications & Experience
+# 🏆 Certifications & Experience
 
 <table width="100%">
 <tr><td width="30%"><b>💼 Deloitte</b></td><td>Technology Job Simulation — coding, development & technical problem-solving (June 2026)</td></tr>
@@ -123,34 +69,31 @@ Polished quote app with favorites, search, sharing, and multiple themes.
 <tr><td><b>🐍 Cisco</b></td><td>Python Essentials 1</td></tr>
 </table>
 
-<br/>
-
-## 📊 GitHub Analytics
+# 📊 GitHub Stats:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HusnainRaza313&theme=tokyonight&hide_border=true&background=0d1117&stroke=6C63FF&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HusnainRaza313&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9&cache_seconds=1800" width="38%"/>
+![](https://github-readme-stats.shion.dev/api?username=HusnainRaza313&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)
 
-<br/><br/>
+![](https://streak-stats.demolab.com/?user=HusnainRaza313&theme=github_dark&hide_border=false)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HusnainRaza313&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff" width="97%"/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=HusnainRaza313&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+### ✍️ Random Dev Quote
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
-<sub><i>Analytics cards are rendered by third-party services and may briefly fail to load due to caching — unrelated to the profile itself.</i></sub>
+---
 
-<br/>
+<div align="center">
 
-## 🤝 Let's Connect
-
-Always open to conversations with developers, students, mentors, and recruiters — happy to learn, collaborate, or talk shop on Python, C++, or web dev.
-
-<p align="center">
-<a href="https://github.com/HusnainRaza313"><img src="https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/muhammad-husnain-raza-523266304"><img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:6C63FF&height=100&section=footer" width="100%"/>
+[![](https://komarev.com/ghpvc/?username=HusnainRaza313&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
